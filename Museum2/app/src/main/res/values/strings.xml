@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Museum</string>
+    <string name="title_activity_choose_room">ChooseRoomActivity</string>
+
+    <string name="room1Title">Room 1</string>
+    <string name="room2Title">Room 2</string>
+    <string name="room3Title">Room 3</string>
+    <string name="room4Title">Room 4</string>
+    <string name="title_activity_room">RoomActivity</string>
+
+    <string name="room1text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac diam molestie, tristique ex nec, elementum lacus. Etiam volutpat pharetra augue, eget malesuada lectus volutpat non. Vestibulum tempor interdum neque, vel dictum erat sodales ut. Fusce lorem est, dictum quis ante nec, vulputate commodo metus. Aliquam libero ex, consequat eu facilisis ac, finibus eu arcu. Etiam vel dolor et tellus scelerisque interdum vitae ut lectus. Duis pellentesque rhoncus risus, sed viverra ligula malesuada non. Nullam at tempor arcu. Phasellus velit massa, consequat in sodales vel, gravida nec leo. Ut non risus posuere, condimentum nunc quis, aliquam arcu. Donec congue suscipit magna. Praesent efficitur vel sapien id faucibus. Aenean in viverra enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tempus risus sit amet porta fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce ultricies iaculis dolor, sit amet rutrum odio tincidunt ac. Donec nec aliquam dolor. Suspendisse potenti. Duis tellus mi, porttitor vel ante at, posuere mattis elit.</string>
+    <string name="room2text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac diam molestie, tristique ex nec, elementum lacus. Etiam volutpat pharetra augue, eget malesuada lectus volutpat non. Vestibulum tempor interdum neque, vel dictum erat sodales ut. Fusce lorem est, dictum quis ante nec, vulputate commodo metus. Aliquam libero ex, consequat eu facilisis ac, finibus eu arcu. Etiam vel dolor et tellus scelerisque interdum vitae ut lectus. Duis pellentesque rhoncus risus, sed viverra ligula malesuada non.</string>
+</resources>
